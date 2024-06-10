@@ -20,6 +20,7 @@ Study-Notion is a robust ReactJS-based ed-tech platform designed to enhance the 
 - **Payment Gateway**: Razorpay
 - **Media Storage**: Cloudinary
 - **Database**: MongoDB Atlas
+- **Backend**: NodeJS, ExpressJS
 
 ## Getting Started
 
