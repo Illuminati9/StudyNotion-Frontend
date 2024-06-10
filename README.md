@@ -30,10 +30,10 @@ Study-Notion is a robust ReactJS-based ed-tech platform designed to enhance the 
 - Razorpay account
 
 ### Installation
-1. Clone the repository:
+1. Fork & Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/study-notion.git
-   cd study-notion
+   git clone https://github.com/username/StudyNotion-Frontend.git
+   cd StudyNotion-Frontend
    ```
 
 2. Install dependencies:
