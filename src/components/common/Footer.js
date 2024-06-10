@@ -163,7 +163,7 @@ const Footer = () => {
               );
             })}
           </div>
-          <HighlightText text={"Made by Swaroop Ankam"} />
+          <HighlightText text={"Made by Sridhar Suthapalli"} />
         </div>
       </div>
     </div>
